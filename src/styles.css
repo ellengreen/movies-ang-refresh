@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.jumbotron {
+    background-image: url("https://placekitten.com/1000/400");
+    background-size: cover;
+    color: orange;
+}
+
+li:nth-child(2) {
+    color: orange;
+}

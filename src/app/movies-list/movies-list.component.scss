@@ -1,0 +1,16 @@
+$font-stack: Courier;
+$primary-color: darkgreen;
+
+
+li {
+  padding-bottom: 20px;
+  font: 100% $font-stack;
+}
+
+.comedy {
+  color: $primary-color;
+}
+
+.clickable {
+  cursor: pointer;
+}
